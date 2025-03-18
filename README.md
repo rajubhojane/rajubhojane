@@ -119,10 +119,44 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajubhojane&show_icons=true&locale=en" alt="rajubhojane" />
 </p>
 
+<!-- GitHub README Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=600&lines=Thanks+for+visiting!+✨;Keep+Learning,+Keep+Coding!+🚀;Dream+Big,+Work+Hard!+💻" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajubhojane&theme=dark&hide_border=true&fire=FF5733&ring=FFD700&background=000000" alt="rajubhojane streak stats" />
+  <a href="https://github.com/rajubhojane">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Divider" width="100%" />
   </a>
 </p>
+
+<!-- Motivational Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=700&lines=💡+Every+great+developer+you+know+once+struggled+to+learn+code!;🚀+Success+is+the+sum+of+small+efforts,+repeated+day+in+and+day+out!;🔥+Code,+Debug,+Repeat,+Succeed!" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/raju-bhojane/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rajubhojane" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rajubhojane2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<!-- Animated Wave Footer -->
+<p align="center">
+  <a href="https://github.com/rajubhojane">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </a>
+</p>
+
+
+
+
+
 
